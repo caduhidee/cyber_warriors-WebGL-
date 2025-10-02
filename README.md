@@ -3,7 +3,7 @@
 Hello! This is Cyber Warrior, a side scrolling shooter in the style of gradius. I hope you enjoy!
 
 ## Link:
-- https://caduhidee.github.io/cyber_warriors/
+- [https://caduhidee.github.io/cyber_warriors/](https://caduhidee.github.io/cyber_warriors-WebGL-/)
 
 ## How to Play:
   - Press 1 to start the game
